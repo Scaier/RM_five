@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/caiersheng/下载/task2.1/build",
+  "command": "/usr/bin/c++ -DGFLAGS_IS_A_DLL=0 -DGOOGLE_GLOG_DLL_DECL=\"\" -DGOOGLE_GLOG_DLL_DECL_FOR_UNITTESTS=\"\" -I/home/caiersheng/下载/task2.1/include -isystem /usr/local/include/opencv -isystem /usr/include/eigen3 -g -std=gnu++17 -o CMakeFiles/task2.1.dir/main.cpp.o -c /home/caiersheng/下载/task2.1/main.cpp",
+  "file": "/home/caiersheng/下载/task2.1/main.cpp"
+},
+{
+  "directory": "/home/caiersheng/下载/task2.1/build",
+  "command": "/usr/bin/c++ -DGFLAGS_IS_A_DLL=0 -DGOOGLE_GLOG_DLL_DECL=\"\" -DGOOGLE_GLOG_DLL_DECL_FOR_UNITTESTS=\"\" -I/home/caiersheng/下载/task2.1/include -isystem /usr/local/include/opencv -isystem /usr/include/eigen3 -g -std=gnu++17 -o CMakeFiles/task2.1.dir/src/getBar.cpp.o -c /home/caiersheng/下载/task2.1/src/getBar.cpp",
+  "file": "/home/caiersheng/下载/task2.1/src/getBar.cpp"
+}
+]
